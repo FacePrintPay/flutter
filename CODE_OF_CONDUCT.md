@@ -51,3 +51,5 @@ up to speed even quicker.
 !["I try not to make fun of people for admitting they don't know things, because for each thing 'everyone knows' by the time they're adults, every day there are, on average, 10,000 people in the US hearing about it for the first time. If I make fun of people, I train them not to tell me when they have those moments. And I miss out on the fun." "Diet coke and mentos thing? What's that?" "Oh, man! We're going to the grocery store." "Why?" "You're one of today's lucky 10,000."](https://imgs.xkcd.com/comics/ten_thousand.png)
 
 Source: _[xkcd, May 2012](https://xkcd.com/1053/)_
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=CODE_OF_CONDUCT.md

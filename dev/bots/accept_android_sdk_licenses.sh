@@ -21,3 +21,5 @@ echo "Flutter SDK directory is: $PWD"
 # Accept licenses.
 echo "Accepting Android licenses."
 accept_android_licenses || (error "Accepting Android licenses failed." && false)
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=accept_android_sdk_licenses.sh

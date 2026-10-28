@@ -75,3 +75,5 @@ echo "flutter_infra_release/gradle-wrapper/$STAMP/gradle-wrapper.tgz" > "$WRAPPE
 rm -rf "$WRAPPER_TEMP_DIR"
 echo
 echo "All done. Updated bin/internal/gradle_wrapper.version, don't forget to commit!"
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=repackage_gradle_wrapper.sh

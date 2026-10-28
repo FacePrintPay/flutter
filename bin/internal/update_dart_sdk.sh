@@ -185,3 +185,5 @@ if [ ! -f "$ENGINE_STAMP" ] || [ "$ENGINE_VERSION" != `cat "$ENGINE_STAMP"` ]; t
     rm -rf "$DART_SDK_PATH_OLD"
   fi
 fi
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=update_dart_sdk.sh

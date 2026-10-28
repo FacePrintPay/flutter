@@ -36,3 +36,5 @@ https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html#foreground.t
 From this clipart:
 https://openclipart.org/detail/30403/tango-go-up
 Which is in the public domain.
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md

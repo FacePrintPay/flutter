@@ -11,3 +11,5 @@ intended to be a general-purpose tool.
   - group transforms
   - group opacities
   - paths (strokes are not supported, only fills, elliptical arc curve commands are not supported)
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md

@@ -29,3 +29,5 @@ assets_for_android_view package which lives in the goldens repository.
 When running this test with `flutter drive` the record touch sequences is
 replayed and the test asserts that the events that got to FlutterView are
 equivalent to the ones that got to the embedded view.
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md

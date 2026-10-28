@@ -33,3 +33,5 @@ an internal Google database.
 be defined, use `getToken` to get the raw token value. The script, through
 the various revolvers and `getToken`, validates tokens, keeps track of
 which tokens are used, and generates `generated/used_tokens.csv`.
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md

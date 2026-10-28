@@ -3,3 +3,4 @@ The files in this directory are used as part of the tests in the
 `pubspec.yaml` that references the flutter framework (which is
 intentionally not true of the `flutter_tools` package). Others are
 here mostly out of peer pressure.
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md

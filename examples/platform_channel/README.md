@@ -20,3 +20,5 @@ directory to build/run the app or to build with Android Studio, open the
 You can use the commands `flutter build` and `flutter run` from the app's root
 directory to build/run the app or you can build once then open
 `build\windows\platform_channel.sln` in Visual Studio to build and run.
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md

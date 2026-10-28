@@ -7,3 +7,5 @@ A simple app contains:
     * Press the button will update the text.
 
 We use this app to test platform views in general such as platform view creation, destruction, and thread merging(iOS only).
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md

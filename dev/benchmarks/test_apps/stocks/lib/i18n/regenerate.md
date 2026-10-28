@@ -19,3 +19,5 @@ based on the locale of the device. In this case, the stocks app supports
 `StockStringsEs` classes extends `StockStrings`. `StockStringsEnUs` extends
 `StockStringsEn`. This allows `StockStringsEnUs` to fall back on messages
 in `StockStringsEn`.
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=regenerate.md

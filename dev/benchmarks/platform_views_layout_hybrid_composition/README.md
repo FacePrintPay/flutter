@@ -24,3 +24,5 @@ flutter run --profile --trace-startup
 Results should be in the logs.
 
 Additional results should be in the file `build/start_up_info.json`.
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md

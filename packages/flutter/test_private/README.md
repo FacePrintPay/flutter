@@ -47,3 +47,5 @@ Each test gets its own temporary directory tree under a generated temporary
 directory in the system temp dir that is removed at the end of the run, or under
 the path given to `--temp-dir` on the command line. If a temporary directory is
 given explicitly, it will not be deleted at the end of the run.
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md

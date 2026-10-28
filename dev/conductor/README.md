@@ -116,3 +116,5 @@ For the final step, the user must manually verify that packaging builds have
 finished successfully. The SDK compressed archives will not be available from
 the website until the packaging build has finished. The conductor will produce
 links to the dashboards for monitoring CI builds.
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md

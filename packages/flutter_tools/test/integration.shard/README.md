@@ -24,3 +24,5 @@ integration and are not run when calculating coverage.
 ## Adding new test files
 
 When adding a new test file make sure that it ends with `_test.dart`, or else it will not be run.
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md

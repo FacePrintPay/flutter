@@ -5,3 +5,5 @@ blocks generated from `{@tool dartpad}`, `{@tool sample}`, and `{@tool snippet}`
 sections found in doc comments into the API docs.
 
 [snippets]: https://github.com/flutter/assets-for-api-docs/tree/master/packages/snippets
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md

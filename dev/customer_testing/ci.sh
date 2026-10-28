@@ -35,3 +35,5 @@ git -C ../../bin/cache/pkg/tests checkout `dart --enable-asserts ../tools/bin/fi
 
 # Finally, run the tests.
 dart --enable-asserts run_tests.dart --verbose --skip-on-fetch-failure --skip-template ../../bin/cache/pkg/tests/registry/*.test
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=ci.sh

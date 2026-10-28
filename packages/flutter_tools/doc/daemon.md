@@ -314,3 +314,5 @@ See the [source](https://github.com/flutter/flutter/blob/master/packages/flutter
 - 0.4.1: Added `flutter attach --machine`
 - 0.4.0: Added `emulator.create` command
 - 0.3.0: Added `daemon.connected` event at startup
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=daemon.md

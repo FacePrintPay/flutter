@@ -186,3 +186,5 @@ Once the package is unpublished, it will not be available from the website for
 download, and will not be rebuilt (even though there is a tagged revision in the
 repo still) unless someone forces the packaging build to run again at that
 revision to rebuild the package.
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md

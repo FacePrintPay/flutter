@@ -662,3 +662,5 @@ function waitForConfigurationBuildDirToUpdate(targetWorkspace, args) {
     return new FunctionResult(null, `Failed to get CONFIGURATION_BUILD_DIR: ${e}`);
   }
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=xcode_debug.js

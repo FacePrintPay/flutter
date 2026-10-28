@@ -15,3 +15,5 @@ PlatformDispatcher, window), though that should probably move to the
 See also:
 
  * https://github.com/dart-lang/sdk/issues/25217
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md

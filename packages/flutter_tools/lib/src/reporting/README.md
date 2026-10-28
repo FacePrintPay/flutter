@@ -11,3 +11,5 @@ Flutter reports data to two separate systems:
 
 Users can opt out of all reporting in a single place by running
 `flutter config --no-analytics`.
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md

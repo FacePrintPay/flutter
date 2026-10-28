@@ -16,3 +16,5 @@ since they test that trace data is written to the timeline by connecting to
 the observatory.
 
 These tests will fail if run without this flag.
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md

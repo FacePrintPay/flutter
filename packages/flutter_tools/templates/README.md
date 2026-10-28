@@ -23,3 +23,5 @@ and `skeleton` (the more advanced list view/detail view app).
 Thanks to `app_shared`, the templates for `app` and `skeleton` can contain
 only the files that are specific to them alone, and the rest is automatically
 kept in sync.
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md
